@@ -14,5 +14,5 @@ I am always curious about:
 - ex-InfoTeCS
 - ex-Severstal Digital
 - currently building Salmon
-```
+
 [ [leetcode](https://leetcode.com/u/tribunsky-kir/) ] [ [linkedin](https://www.linkedin.com/in/tribunsky-kir) ]
