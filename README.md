@@ -2,11 +2,6 @@
 
 -----
 
-I am always curious about:
-
-- information security
-- space exploration
-
 ### Random facts about me
 
 - emerging the world and compiling Gentoo since 2011
